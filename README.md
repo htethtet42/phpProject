@@ -1,12 +1,12 @@
-# 📝 PostFlow – Content Management System
+# PostFlow – Content Management System
 
 **PostFlow** is a web-based Content Management System (CMS) built with PHP and MySQL. It provides a platform where users can create and manage posts while administrators control content approval and user activities.
 
-🌐 **Live Website:** [https://postflow-project.free.nf/](https://postflow-project.free.nf/)
+ **Live Website:** [https://postflow-project.free.nf/](https://postflow-project.free.nf/)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 PostFlow simplifies content publishing and management through a role-based system. It supports Guest, User, and Admin roles, providing different levels of access and functionality.
 
@@ -24,15 +24,15 @@ PostFlow simplifies content publishing and management through a role-based syste
 
 ## ✨ Key Features
 
-- 🔐 **User Authentication** – User registration, login, and logout.
-- 👥 **Role Management** – Guest, User, and Admin access levels.
-- ✍️ **Post Creation** – Users can create and submit posts.
-- 📝 **Post Editing** – Manage and edit submitted content.
-- ✅ **Post Approval** – Administrators can approve submitted posts.
-- ❌ **Post Rejection** – Administrators can reject submitted posts.
-- 📊 **Post Status Tracking** – Users can check the approval status of their submissions.
-- ⚙️ **Admin Dashboard** – Manage posts and administrative activities.
-- 📱 **Responsive Interface** – User-friendly interface across different screen sizes.
+-  **User Authentication** – User registration, login, and logout.
+-  **Role Management** – Guest, User, and Admin access levels.
+-  **Post Creation** – Users can create and submit posts.
+-  **Post Editing** – Manage and edit submitted content.
+-  **Post Approval** – Administrators can approve submitted posts.
+-  **Post Rejection** – Administrators can reject submitted posts.
+-  **Post Status Tracking** – Users can check the approval status of their submissions.
+-  **Admin Dashboard** – Manage posts and administrative activities.
+-  **Responsive Interface** – User-friendly interface across different screen sizes.
 
 ---
 
@@ -73,7 +73,7 @@ PostFlow/
 ```
 ---
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### 1. Clone the Repository
 
@@ -130,7 +130,7 @@ http://localhost/PostFlow/
 
 ---
 
-## ☁️ Hosting and Deployment
+##  Hosting and Deployment
 
 PostFlow is deployed using [InfinityFree](https://www.infinityfree.com/).
 
@@ -147,7 +147,7 @@ The deployment process includes:
 
 ---
 
-## 🔒 Important: Excluded Files
+##  Important: Excluded Files
 
 Some files are intentionally excluded from this public GitHub repository for security and privacy reasons.
 
@@ -168,7 +168,7 @@ Some files are intentionally excluded from this public GitHub repository for sec
 
 ---
 
-## 🔐 Security Considerations
+##  Security Considerations
 
 - Keep database credentials private.
 - Use secure password hashing.
@@ -178,7 +178,7 @@ Some files are intentionally excluded from this public GitHub repository for sec
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 PostFlow was developed to demonstrate practical web development skills, including:
 
@@ -192,7 +192,7 @@ PostFlow was developed to demonstrate practical web development skills, includin
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Project:** PostFlow – Content Management System
 
